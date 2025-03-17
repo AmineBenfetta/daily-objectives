@@ -14,10 +14,10 @@
 - [x] Comprendre le merge dans Git
     - [x] Comprendre le "fast forward"
     - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
-- [ ] `.gitignore` global ou pas ?
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
-    - [ ] À quoi sert la commande `git fetch —prune`
-    - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
+- [x] `.gitignore` global ou pas ?
+- [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
+    - [x] À quoi sert la commande `git fetch —prune`
+    - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
   - [ ] Editeur 
   - [ ] Différenciateur (par ex : Delta) 
