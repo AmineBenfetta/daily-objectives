@@ -5,8 +5,8 @@
 ### Git avancé
 
 - [x] Comprendre le principe de "Pull Request"
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+- [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Comprendre le fonctionnement des branches dans Git :
     - [ ] Lister, changer, créer, supprimer des branches
