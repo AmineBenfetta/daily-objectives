@@ -7,10 +7,10 @@
 - [x] Comprendre le principe de "Pull Request"
 - [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
 - [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Comprendre le fonctionnement des branches dans Git :
-    - [ ] Lister, changer, créer, supprimer des branches
-    - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+- [x] Comprendre l'utilité et le fonctionnement de `git stash`
+- [x] Comprendre le fonctionnement des branches dans Git :
+    - [x] Lister, changer, créer, supprimer des branches
+    - [x] Quelle est la différence entre `Git switch` et `Git checkout`
 - [ ] Comprendre le merge dans Git
     - [ ] Comprendre le "fast forward"
     - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
