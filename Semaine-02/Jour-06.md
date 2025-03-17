@@ -11,9 +11,9 @@
 - [x] Comprendre le fonctionnement des branches dans Git :
     - [x] Lister, changer, créer, supprimer des branches
     - [x] Quelle est la différence entre `Git switch` et `Git checkout`
-- [ ] Comprendre le merge dans Git
-    - [ ] Comprendre le "fast forward"
-    - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [x] Comprendre le merge dans Git
+    - [x] Comprendre le "fast forward"
+    - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
 - [ ] `.gitignore` global ou pas ?
 - [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
     - [ ] À quoi sert la commande `git fetch —prune`
