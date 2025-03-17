@@ -19,10 +19,10 @@
     - [x] À quoi sert la commande `git fetch —prune`
     - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
-  - [ ] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
-  - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Editeur 
+  - [x] Différenciateur (par ex : Delta) 
+  - [x] Aliases 
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### Outils
 
