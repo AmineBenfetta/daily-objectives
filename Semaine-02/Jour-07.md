@@ -19,10 +19,10 @@
 - [x] Installation de NodeJS
 - [x] Découverte de "NPM", "Yarn" et "PNPM"
   - [x] Comprendre les différences entre les package managers et en choisir un
-  - [ ] Savoir faire les commandes de bases :
-    - [ ] Installer un package (local et global)
-    - [ ] Désinstaller un package (local et global)
-    - [ ] Mettre jour les packages (local et global) et le package manager
+  - [x] Savoir faire les commandes de bases :
+    - [x] Installer un package (local et global)
+    - [x] Désinstaller un package (local et global)
+    - [x] Mettre jour les packages (local et global) et le package manager
 
 ### Travail de groupe
 
