@@ -4,7 +4,7 @@
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
+- [x] Découvrir Gitflow
 
 ### Github
 
