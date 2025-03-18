@@ -16,9 +16,9 @@
 
 ### NodeJS
 
-- [ ] Installation de NodeJS
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
-  - [ ] Comprendre les différences entre les package managers et en choisir un
+- [x] Installation de NodeJS
+- [x] Découverte de "NPM", "Yarn" et "PNPM"
+  - [x] Comprendre les différences entre les package managers et en choisir un
   - [ ] Savoir faire les commandes de bases :
     - [ ] Installer un package (local et global)
     - [ ] Désinstaller un package (local et global)
