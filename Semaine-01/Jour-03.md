@@ -3,6 +3,7 @@
 ### Mercredi 12/03/2025
 
 ### Découverte des outils de développement :
+<<<<<<< HEAD
 - [x] Découverte de VS Code
 - [x] Comprendre le web (Openclassrooms)
 - [x] Faire le parcours Git-it (Nodeschool.io)
@@ -10,3 +11,12 @@
 - [x] Faire ses premiers commits sur les daily objectives
 - [x] Forker le repository des daily-objectives
   - [x] Faire ses premiers pushs des daily-objectives sur son compte Github
+=======
+- [ ] Découverte de VS Code
+- [ ] Comprendre le web (Openclassrooms)
+- [ ] Faire le parcours Git-it (Nodeschool.io)
+- [ ] Établir sa connexion en SSH avec Github
+- [ ] Faire ses premiers commits sur les daily objectives
+- [ ] Forker le repository des daily-objectives
+- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+>>>>>>> 87ec316703ab61d19349dec86b48da4def936045
