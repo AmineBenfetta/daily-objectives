@@ -21,4 +21,3 @@
   - [ ] Pages mobiles
   - [ ] Pages tablettes
   - [ ] Pages Desktop
->>>>>>> 6694d4b9a7abf8accc1578a89fe6ea1ad103caca
