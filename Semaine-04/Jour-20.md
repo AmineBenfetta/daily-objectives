@@ -4,4 +4,4 @@
 
 ### Hackaton (Jour 2)
 
-- [ ] Continuer le développement du projet Hackaton
+- [x] Continuer le développement du projet Hackaton

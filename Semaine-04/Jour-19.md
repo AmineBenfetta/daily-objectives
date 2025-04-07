@@ -4,4 +4,4 @@
 
 ### Hackaton
 
-- [ ] Participer au Hackaton
+- [x] Participer au Hackaton
