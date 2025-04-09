@@ -4,13 +4,13 @@
 
 ### Brief "Baby Pics" - Préparation et conception
 
-- [ ] Analyser le brief "Baby Pics"
-  - [ ] Comprendre les besoins du site pour une photographe spécialisée
-  - [ ] Identifier les contenus nécessaires pour les 7 pages
-  - [ ] Faire un benchmark rapide de sites similaires
+- [x] Analyser le brief "Baby Pics"
+  - [x] Comprendre les besoins du site pour une photographe spécialisée
+  - [x] Identifier les contenus nécessaires pour les 7 pages
+  - [x] Faire un benchmark rapide de sites similaires
 
 - [ ] Créer les wireframes de toutes les pages
-  - [ ] Wireframe de la page d'accueil
+  - [x] Wireframe de la page d'accueil
   - [ ] Wireframe des pages "Le Studio" et "Galerie"
   - [ ] Wireframe des pages "Tarifs" et "Blog"
   - [ ] Wireframe des pages "A propos" et "Contact"
